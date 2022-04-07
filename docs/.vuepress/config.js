@@ -4,4 +4,5 @@ module.exports = {
   title: "qinwencheng's blog",
   plugins: [
   ],
+  dest: `dist`
 };
