@@ -10,15 +10,7 @@
   "MD024": {
     "allow_different_nesting": true
   },
-  "MD033": {
-    "allowed_elements": [
-      "br",
-      "script",
-      "Badge",
-      "IconDisplay",
-      "KatexPlayground"
-    ]
-  },
+  "MD033": false,
   "MD035": {
     "style": "---"
   },
